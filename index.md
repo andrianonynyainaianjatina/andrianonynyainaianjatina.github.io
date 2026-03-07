@@ -1,10 +1,7 @@
+[Home](/) | [CV](/cv/) | [Research](/research/) | [Teaching](/teaching/) | [Field Experience](/field/)
 ---
 layout: default
 title: Home
----
-
-[Home](/) | [CV](/cv/) | [Research](/research/) | [Teaching](/teaching/) | [Field Experience](/field/)
-
 ---
 
 ## Ph.D Student in Development Policy
