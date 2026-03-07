@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-# **Your Name**
-### Development Economist
+# **Andrianony Ny Aina Ianjatina**
+### Ph.D Student in Development Policy
 
 ---
 
