@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# Andrianony Ny Aina Ianjatina
-
 ## Ph.D Student in Development Policy
 
 <div style="display:flex; gap:40px; align-items:flex-start;">
@@ -13,7 +11,7 @@ title: Home
 
 <img src="/photo.jpeg" width="220" style="border-radius:50%;">
 
-Development, labor, poverty, and data  
+<div Development, labor, poverty, and data  >
 
 PhD Candidate  
 KDI School of Public Policy and Management  
