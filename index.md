@@ -1,19 +1,22 @@
-
-### Ph.D Student in Development Policy
-
 ---
+layout: default
+title: Home
+---
+
+# Andrianony Ny Aina Ianjatina
+
+## Ph.D Student in Development Policy
 
 <div style="display:flex; gap:40px; align-items:flex-start;">
 
-<div style="width:30%;">
+<div style="width:35%;">
 
-<img src="/photo.jpeg" width="200" style="border-radius:50%;">
-
+<img src="/images/profile.jpg" width="220" style="border-radius:50%;">
 
 Development, labor, poverty, and data  
 
 PhD Candidate  
-KDI School of Public Policy and Management
+KDI School of Public Policy and Management  
 
 📍 Sejong, South Korea  
 
@@ -24,15 +27,13 @@ KDI School of Public Policy and Management
 
 </div>
 
-<div style="width:70%;">
+<div style="width:65%;">
 
 I am a **PhD candidate in Development Policy at KDI School of Public Policy and Management**.
 
-My research focuses on **political economy, education economics, and urban economics in developing countries**. I study governance, migration, and education outcomes with a behavioral and gender perspective.
+My research focuses on **political economy, education economics, and urban economics in developing countries**.
 
-My work explores how **local governance systems affect development outcomes**, particularly in low-income contexts.
-
----
+I study governance, migration, and education outcomes with a behavioral and gender perspective.
 
 ### Research Interests
 
@@ -42,13 +43,9 @@ My work explores how **local governance systems affect development outcomes**, p
 - Urban Economics  
 - Governance and Institutions  
 
----
-
 ### Current Research
 
-My current work focuses on governance systems in developing countries and their impact on education, migration, and local economic outcomes.
-
-I use **field surveys, administrative data, and causal inference methods** to understand how institutions shape development outcomes.
+My work studies how **local governance systems affect development outcomes**, particularly in low-income countries.
 
 </div>
 
