@@ -1,9 +1,4 @@
 
----
-layout: default
-title: Home
----
-
 ### Ph.D Student in Development Policy
 
 ---
