@@ -1,9 +1,17 @@
-[Home](/) | [CV](/cv/) | [Research](/research/) | [Teaching](/teaching/) | [Field Experience](/field/)
-
 ---
 layout: default
 title: Home
 ---
+
+<div style="width:100%; text-align:center; padding:15px; font-size:18px; border-bottom:1px solid #ddd; margin-bottom:30px;">
+
+<a href="/">Home</a> |
+<a href="/cv/">CV</a> |
+<a href="/research/">Research</a> |
+<a href="/teaching/">Teaching</a> |
+<a href="/field/">Field Experience</a>
+
+</div>
 
 ## Ph.D Student in Development Policy
 
@@ -24,3 +32,11 @@ My research interests include agriculture and climate change.
 </div>
 
 <div style="width:65%;">
+
+<p>
+Add your longer biography here. This section will occupy the rest of the page.
+</p>
+
+</div>
+
+</div>
