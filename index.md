@@ -14,7 +14,6 @@ title: Home
 
 <img src="/images/profile.jpg" width="200" style="border-radius:50%;">
 
-### Your Name
 
 Development, labor, poverty, and data  
 
