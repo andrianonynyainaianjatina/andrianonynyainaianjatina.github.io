@@ -34,7 +34,11 @@ My research interests include agriculture and climate change.
 <div style="width:65%;">
 
 <p>
-Add your longer biography here. This section will occupy the rest of the page.
+# Andrianony Ny Aina Ianjatina
+
+Andrianony Ny Aina Ianjatina is a PhD student in Development Policy at KDI School of Public Policy and Management.
+
+The research of Andrianony Ny Aina Ianjatina focuses on development economics, agriculture, and climate change.
 </p>
 
 </div>
