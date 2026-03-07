@@ -11,7 +11,7 @@ title: Home
 
 <div style="width:35%;">
 
-<img src="/images/profile.jpg" width="220" style="border-radius:50%;">
+<img src="/photo.jpeg" width="220" style="border-radius:50%;">
 
 Development, labor, poverty, and data  
 
