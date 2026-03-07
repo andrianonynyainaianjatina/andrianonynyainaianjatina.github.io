@@ -11,7 +11,7 @@ title: Home
 
 <img src="/photo.jpeg" width="220" style="border-radius:50%;">
 
-<div Development, labor, poverty, and data  >
+Development, labor, poverty, and data
 
 PhD Candidate  
 KDI School of Public Policy and Management  
