@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Field Experience
+permalink: /field/
 ---
 
 ## Field Research
