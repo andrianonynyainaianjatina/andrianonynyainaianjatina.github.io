@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-# **Andrianony Ny Aina Ianjatina**
 ### Ph.D Student in Development Policy
 
 ---
