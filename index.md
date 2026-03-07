@@ -2,7 +2,10 @@
 layout: default
 title: Home
 ---
+
 [Home](/) | [CV](/cv/) | [Research](/research/) | [Teaching](/teaching/) | [Field Experience](/field/)
+
+---
 
 ## Ph.D Student in Development Policy
 
@@ -10,16 +13,16 @@ title: Home
 
 <div style="width:35%;">
 
-<img src="/photo.jpeg" width="220" style="border-radius:8px">
+<img src="/photo.jpeg" width="220" style="border-radius:8px; margin-bottom:10px;">
+
+<p>
+I am a Ph.D student at KDI School of Public Policy and Management.
+</p>
+
+<p>
+My research interests include agriculture and climate change.
+</p>
 
 </div>
 
 <div style="width:65%;">
-
-I am a PhD student at KDI School of Public Policy and Management.
-
-My research focuses on development economics with interests in agriculture and climate change.
-
-</div>
-
-</div>
