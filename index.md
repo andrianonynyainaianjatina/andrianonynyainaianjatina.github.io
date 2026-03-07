@@ -12,10 +12,8 @@ title: Home
 
 <img src="/photo.jpeg" width="220" style="border-radius:50%; margin-bottom:15px;">
 
-<h3>Andrianony Ny Aina Ianjatina</h3>
-
 <p style="color:gray;">
-Development, labor, poverty, and data
+Development Policy, Development Economics, Agriculture, Climate Change
 </p>
 
 <p>
