@@ -36,4 +36,3 @@ with Oscar M. Díaz-Botía (Paris School of Economics) and Manisha Shah (UC Berk
 
 <hr>
 
-</ul>
