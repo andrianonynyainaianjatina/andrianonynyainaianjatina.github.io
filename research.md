@@ -26,7 +26,7 @@ with David Sungho Park (KDI School) and Michell Dong (Green Climate Fund)
 </p>
 
 <p>
-<strong>Climate-Resilient Food Storage: Strengthening Food Security in Response to Natural Disasters in Madagascar</strong>
+<strong>Climate-Resilient Food Storage: Strengthening Food Security in Response to Natural Disasters in Madagascar (RCT proposal developped with CEGA (Center Effective of Global Action Berkeley)) </strong>
 </p>
 
 <p>
