@@ -18,7 +18,7 @@ title: Home
 <!-- LEFT COLUMN -->
 <div style="width:30%; text-align:left;">
 
-<img src="/photo.jpeg" style="width:220px; border-radius:50%; margin-bottom:20px;">
+<img src="/photo.jpeg" style="width:220px; margin-bottom:20px;">
 
 <h3>Andrianony Ny Aina Ianjatina</h3>
 
