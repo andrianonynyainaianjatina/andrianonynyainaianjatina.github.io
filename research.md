@@ -4,17 +4,36 @@ title: Research
 permalink: /research/
 ---
 
-## Working Papers
+<h2>Working Papers</h2>
 
-**Governance and Development Outcomes**
+<p>
+<strong>Compounded Climate Shocks and Food Security: Evidence from Back-to-back Cyclones in Madagascar</strong><br>
+with David Sungho Park
+</p>
 
-Description of the project.
+<p>
+<strong>Protecting Children from Extreme Weather: The Role of Integrated Interventions in Madagascar</strong><br>
+with Lia Fernald (UC Berkeley), Emanuela Galasso (World Bank)
+</p>
 
----
+<hr>
 
-## Research Interests
+<h2>Works in Progress</h2>
 
-- Development Economics  
-- Agriculture  
-- Climate Change  
-- Political Economy
+<p>
+<strong>Tanzania Agriculture Climate Adaptation Technology Deployment Program</strong><br>
+with David Sungho Park (KDI School) and Michell Dong (Green Climate Fund)
+</p>
+
+<p>
+<strong>Climate-Resilient Food Storage: Strengthening Food Security in Response to Natural Disasters in Madagascar</strong>
+</p>
+
+<p>
+<strong>Improving Mental Health and Exam Performance through Mobile-Based Interventions: Experimental Evidence from Madagascar</strong><br>
+with Oscar M. Díaz-Botía (Paris School of Economics) and Manisha Shah (UC Berkeley)
+</p>
+
+<hr>
+
+</ul>
