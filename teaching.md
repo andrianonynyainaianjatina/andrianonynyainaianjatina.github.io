@@ -4,9 +4,36 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Teaching Assistant
+<h2>Academic Experience</h2>
 
-KDI School of Public Policy and Management
+<p>
+<strong>KDI School of Public Policy and Management</strong><br>
+Research Assistant – South Korea<br>
+February 2024 – Present
+</p>
 
-- Development Economics
-- Econometrics
+<p><em>Teaching Assistant:</em></p>
+
+<ul>
+<li>Introduction to Development Policy (Spring 2026, Spring 2025)</li>
+<li>Stata Instructor (Winter Break 2025, Summer Break 2024)</li>
+<li>Development Economics: Labor and Development (Fall 2025)</li>
+<li>Data-Driven Foreign Aid (Summer 2025)</li>
+<li>Introduction to QGIS (Summer Break 2025)</li>
+<li>Foundations for Public Policy (Spring 2025)</li>
+<li>Microeconomics (Summer 2025, Summer Break 2024)</li>
+<li>Quantitative Methods (Fall 2021, Spring 2022)</li>
+</ul>
+
+<p>
+<em>Consultant</em>, Data Support Center<br>
+<em>Consultant</em>, Writing Center
+</p>
+
+<hr>
+
+<p>
+<strong>Protestant High School Rasalama / Secondary School Le Lauréat</strong><br>
+Mathematics Teacher – Madagascar<br>
+2013 – 2015
+</p>
