@@ -36,6 +36,10 @@ KDI School of Public Policy and Management
 </p>
 
 <p>
+✉️ <a href="mailto:ianja@berkeley.edu">ianja@berkeley.edu</a>
+</p>
+
+<p>
 🎓 <a href="https://www.linkedin.com/in/ianja/">LinkedIn</a> <br>
 💻 <a href="https://github.com/andrianonynyainaianjatina">GitHub</a>
 </p>
