@@ -57,8 +57,7 @@ My research lies in <b>development economics</b>, with a focus on
 </p>
 
 <p>
-My work explores how environmental shocks affect economic and social outcomes
-of farmers in developing countries.
+My work explores how environmental shocks affect economic and social outcomes in developing countries.
 </p>
 
 </div>
