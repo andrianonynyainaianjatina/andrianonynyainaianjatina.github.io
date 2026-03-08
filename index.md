@@ -27,7 +27,11 @@ KDI School of Public Policy and Management
 
 📍 Sejong, South Korea  
 
-✉️ Email: ianjany@kdis.ac.kr
+✉️ Email: <a href="mailto:ianjany@kdis.ac.kr">ianjany@kdis.ac.kr</a>  
+
+🎓 <a href="https://www.linkedin.com/in/ianja/">LinkedIn</a>  
+
+💻 <a href="https://github.com/andrianonynyainaianjatina">GitHub</a>
 
 </div>
 
