@@ -16,6 +16,4 @@ permalink: /field/
 
 <img src="/field1.jpg" style="width:300px; border-radius:6px;">
 
-<img src="/field2.jpg" style="width:300px; border-radius:6px;">
-
 </div>
