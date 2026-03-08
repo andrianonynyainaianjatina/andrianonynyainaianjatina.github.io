@@ -6,4 +6,4 @@ permalink: /cv/
 
 You can download my CV here:
 
-[Download CV](CV.pdf)
+[Download CV](cv.pdf)
