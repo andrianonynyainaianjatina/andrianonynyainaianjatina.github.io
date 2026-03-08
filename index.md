@@ -28,6 +28,11 @@ KDI School of Public Policy and Management
 </p>
 
 <p>
+CEGA Fellow (<a href="https://cega.berkeley.edu/person/andrianony/">Center for Effective Global Action</a>)<br>
+University of California, Berkeley
+</p>
+
+<p>
 📍 Sejong, South Korea
 </p>
 
