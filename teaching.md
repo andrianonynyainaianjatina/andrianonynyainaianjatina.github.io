@@ -32,7 +32,7 @@ Research Assistant<br>
 <hr>
 
 <p>
-<strong>Protestant High School Rasalama / Secondary School Le Lauréat</strong><br>
-Mathematics Teacher – Madagascar<br>
+<strong>Protestant High School Rasalama / Secondary School Le Lauréat (Madagascar)</strong><br>
+Mathematics Teacher<br>
 2013 – 2015
 </p>
