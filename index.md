@@ -42,11 +42,10 @@ KDI School of Public Policy and Management
 
 I am a **PhD student in Development Policy at KDI School of Public Policy and Management**.
 
-My research lies in **development economics**, with a focus on **agriculture, climate change, political economy, and rural development in low-income countries**.
+My research lies in **development economics**, with a focus on **agriculture and climate change in Sub-Saharab Africa**.
 
-My work explores how institutions, governance, and environmental shocks affect economic outcomes in developing countries.
+My work explores how environmental shocks affect economic and social outcomes of farmers in developing countries.
 
-[Curriculum Vitae](/cv/)
 
 </div>
 
