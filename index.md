@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<div style="width:100%; text-align:center; padding:15px; font-size:18px; border-bottom:1px solid #ddd; margin-bottom:30px;">
+<div style="width:100%; text-align:center; padding:15px; font-size:18px; border-bottom:1px solid #ddd; margin-bottom:40px;">
 
 <a href="/">Home</a> |
 <a href="/cv/">CV</a> |
@@ -13,33 +13,36 @@ title: Home
 
 </div>
 
-## Ph.D Student in Development Policy
+<div style="display:flex; gap:50px; align-items:flex-start;">
 
-<div style="display:flex; gap:40px; align-items:flex-start;">
+<!-- LEFT COLUMN -->
+<div style="width:30%;">
 
-<div style="width:35%;">
+<img src="/photo.jpeg" width="220" style="border-radius:120px; margin-bottom:15px;">
 
-<img src="/photo.jpeg" width="220" style="border-radius:8px; margin-bottom:10px;">
+### Andrianony Ny Aina Ianjatina
 
-<p>
-I am a Ph.D student at KDI School of Public Policy and Management.
-</p>
+PhD Student  
+KDI School of Public Policy and Management
 
-<p>
-My research interests include agriculture and climate change.
-</p>
+📍 Sejong, South Korea  
+
+✉️ Email: ianjany@kdis.ac.kr
 
 </div>
 
-<div style="width:65%;">
+<!-- RIGHT COLUMN -->
+<div style="width:70%;">
 
-<p>
-# Andrianony Ny Aina Ianjatina
+## About Me
 
-Andrianony Ny Aina Ianjatina is a PhD student in Development Policy at KDI School of Public Policy and Management.
+I am a **PhD student in Development Policy at KDI School of Public Policy and Management**.
 
-The research of Andrianony Ny Aina Ianjatina focuses on development economics, agriculture, and climate change.
-</p>
+My research lies in **development economics**, with a focus on **agriculture, climate change, political economy, and rural development in low-income countries**.
+
+My work explores how institutions, governance, and environmental shocks affect economic outcomes in developing countries.
+
+[Curriculum Vitae](/cv/)
 
 </div>
 
