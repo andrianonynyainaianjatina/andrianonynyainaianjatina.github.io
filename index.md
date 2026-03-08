@@ -16,7 +16,7 @@ title: Home
 <div style="display:flex; gap:60px; align-items:flex-start;">
 
 <!-- LEFT COLUMN -->
-<div style="width:30%; text-align:center;">
+<div style="width:30%; text-align:left;">
 
 <img src="/photo.jpeg" style="width:220px; border-radius:50%; margin-bottom:20px;">
 
