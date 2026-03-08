@@ -35,5 +35,10 @@ RCT proposal developped with CEGA (Center Effective of Global Action Berkeley)
 with Oscar M. Díaz-Botía (Paris School of Economics) and Manisha Shah (UC Berkeley)
 </p>
 
+<p>
+<strong>Performance of Agricultural Cooperatives in Madagascar</strong><br>
+with David Sungho Park and Marie Louise Deschamp (World Bank)
+</p>
+
 <hr>
 
