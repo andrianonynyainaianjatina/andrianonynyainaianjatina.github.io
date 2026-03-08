@@ -26,8 +26,8 @@ February 2024 – Present
 </ul>
 
 <p>
-<em>Consultant</em>, Data Support Center<br>
-<em>Consultant</em>, Writing Center
+<em>Consultant</em>, KDIS Data Analysis Support(DAS) Centerr<br>
+<em>Consultant</em>, KDIS Writing Center
 </p>
 
 <hr>
