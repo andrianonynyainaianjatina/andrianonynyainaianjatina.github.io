@@ -8,7 +8,6 @@ permalink: /teaching/
 
 <p>
 <strong>KDI School of Public Policy and Management</strong><br>
-February 2024 – Present
 Research Assistant<br>
 </p>
 
