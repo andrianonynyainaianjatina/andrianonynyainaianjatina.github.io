@@ -7,7 +7,7 @@ permalink: /teaching/
 <h2>Academic Experience</h2>
 
 <p>
-<strong>KDI School of Public Policy and Management</strong><br>
+<strong>KDI School of Public Policy and Management (South Korea)</strong><br>
 Research Assistant<br>
 </p>
 
