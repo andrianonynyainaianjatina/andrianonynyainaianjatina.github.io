@@ -3,6 +3,33 @@ layout: default
 title: Home
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Saqib Hussain",
+  "jobTitle": "Development Economist",
+  "affiliation": [
+    {
+      "@type": "Organization",
+      "name": "KDI School of Public Policy and Management"
+    },
+    {
+      "@type": "Organization",
+      "name": "World Bank"
+    }
+  ],
+  "url": "https://itssaqib.github.io/",
+  "sameAs": [
+    "https://scholar.google.com/citations?user=ISLPJjgAAAAJ&hl=en",
+    "https://www.linkedin.com/in/saqibhussainpro",
+    "https://orcid.org/0000-0001-9232-8262"
+  ]
+}
+</script>
+
+
+
 <div style="width:100%; text-align:center; padding:15px; font-size:18px; border-bottom:1px solid #ddd; margin-bottom:40px;">
 
 <a href="/">Home</a> |
